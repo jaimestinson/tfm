@@ -1,0 +1,8 @@
+numpy
+dvc
+jupyter
+pandas
+keras
+tensorflow
+matplot
+sklearn
